@@ -1,5 +1,7 @@
 # movies-vue
 
+# https://denisshashkov.github.io/moviesApp/
+
 ## Project setup
 ```
 yarn install
